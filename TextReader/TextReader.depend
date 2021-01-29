@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1608739776 source:c:\users\Данил\onedrive - peter the great st. petersburg polytechnical university\Документы\ui_project\textreader\bufferparcer.c
+	"bufferParcer.h"
+
+1608731784 c:\users\Данил\onedrive - peter the great st. petersburg polytechnical university\Документы\ui_project\textreader\bufferparcer.h
+	<stdio.h>
+	<malloc.h>
+
+1611819528 source:c:\users\Данил\onedrive - peter the great st. petersburg polytechnical university\Документы\ui_project\textreader\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	"model.h"
+	"bufferParcer.h"
+	<locale.h>
+	<math.h>
+	"MyMenu.h"
+	"scroll.h"
+	"model.h"
+
+1608733685 c:\users\Данил\onedrive - peter the great st. petersburg polytechnical university\Документы\ui_project\textreader\model.h
+	<stdio.h>
+	<malloc.h>
+	<windows.h>
+	"bufferParcer.h"
+
+1605210838 c:\users\Данил\onedrive - peter the great st. petersburg polytechnical university\Документы\ui_project\textreader\mymenu.h
+
+1605374291 c:\users\Данил\onedrive - peter the great st. petersburg polytechnical university\Документы\ui_project\textreader\scroll.h
+	"model.h"
+	<math.h>
+
+1608984739 source:c:\users\Данил\onedrive - peter the great st. petersburg polytechnical university\Документы\ui_project\textreader\model.c
+	"model.h"
+
+1605210828 source:c:\users\Данил\onedrive - peter the great st. petersburg polytechnical university\Документы\ui_project\textreader\mymenu.rc
+	"MyMenu.h"
+
+1607713299 source:c:\users\Данил\onedrive - peter the great st. petersburg polytechnical university\Документы\ui_project\textreader\scroll.c
+	<windows.h>
+	"scroll.h"
+

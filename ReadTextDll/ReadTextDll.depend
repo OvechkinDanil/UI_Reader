@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608385081 source:c:\users\Данил\onedrive - peter the great st. petersburg polytechnical university\Документы\ui_project\readtextdll\main.cpp
+	"main.h"
+
+1608385080 c:\users\Данил\onedrive - peter the great st. petersburg polytechnical university\Документы\ui_project\readtextdll\main.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+

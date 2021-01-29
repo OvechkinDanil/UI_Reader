@@ -1,0 +1,19 @@
+#include "MyMenu.h"
+
+
+MyMenu MENU
+{
+    POPUP "&File"
+    {
+        MENUITEM "&Open...", IDM_OPEN
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit", IDM_EXIT
+    }
+
+    POPUP "&Format"
+    {
+        MENUITEM "&Wrap", IDM_WRAP_ON
+        MENUITEM "&No Wrap",IDM_WRAP_OFF, CHECKED, GRAYED
+    }
+
+}
